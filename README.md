@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Halil</h1>
 <h3 align="center">React Native Developer</h3>
 
-<img align="right" src="https://i.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" width="200" height="200"/>
+<img align="right" src="https://i.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" width="250" height="250"/>
 
 - 🌱 I’m currently learning **React-Native**  
 
@@ -17,10 +17,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halil-seran&title=Joined2020,Commits,Repositories,Stars" alt="halil-seran" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halil-seran&label=Profile%20views&color=0e75b6&style=flat" alt="halil-seran" /> </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halil-seran&show_icons=true&locale=en" alt="halil-seran" /></p>
-
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halil-seran&" alt="halil-seran" /></p>
