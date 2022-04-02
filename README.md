@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Halil</h1>
 <h3 align="center">React Native Developer</h3>
 
-<img align="right" src="https://media0.giphy.com/media/3oFzmkkwfOGlzZ0gxi/giphy.gif?cid=ecf05e47m91qoo4ewz806e0d04lkezh5j1kwg62698a1nlwk&rid=giphy.gif&ct=g" width="480" height="270"/>
+<img align="right" src="https://media3.giphy.com/media/l0HU8V1CHKTUFtuFO/giphy.gif?cid=ecf05e47nidt9igxpt2mjfie5osug2pkplkslxq9kr1m6ykh&rid=giphy.gif&ct=g" width="336" height="189"/>
 
 - 🌱 I’m currently learning **React-Native**  
 
