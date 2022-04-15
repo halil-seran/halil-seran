@@ -3,6 +3,7 @@
 <img align="right" src="https://media3.giphy.com/media/l0HU8V1CHKTUFtuFO/giphy.gif?cid=ecf05e47nidt9igxpt2mjfie5osug2pkplkslxq9kr1m6ykh&rid=giphy.gif&ct=g" width="336" height="189"/>
 
 - 👨‍💻 All of my apps are available at [here](https://github.com/halil-seran?tab=repositories)  
+- A big project coming soon!
 
 
 
