@@ -1,10 +1,10 @@
 <h3 align="center">React Native Developer</h3>
 
-<img align="right" src="https://media3.giphy.com/media/l0HU8V1CHKTUFtuFO/giphy.gif?cid=ecf05e47nidt9igxpt2mjfie5osug2pkplkslxq9kr1m6ykh&rid=giphy.gif&ct=g" width="336" height="189"/>
 
 - 👨‍💻 All of my apps are available at [here](https://github.com/halil-seran?tab=repositories)  
-- A big project coming soon!
+- I’m currently working at SeraCell
 
+<!-- <img align="right" src="http://www.reactiongifs.com/r/vhpy.gif" width="250" height="189"/> -->
 
 
 
@@ -23,9 +23,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/halil_seran_1135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="halil_seran_1135" height="45" width="60" /></a>
+<a href="https://gitlab.com/halil-seran" target="blank"><img align="center" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" alt="hll.srn" height="30" width="30" /></a>
 <a href="https://twitter.com/halil_seran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="halil_seran" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/halilseran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halilseran" height="30" width="40" /></a>
 <a href="https://instagram.com/hll.srn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hll.srn" height="30" width="40" /></a>
+
 </p>
 
 - 📫 How to reach me **halil.seran.1135@gmail.com**
