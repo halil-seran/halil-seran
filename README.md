@@ -1,7 +1,8 @@
 <h3 align="center">React Native Developer</h3>
 
 
-- 👨‍💻 All of my apps are available at [here](https://github.com/halil-seran?tab=repositories)  
+- 👨‍💻 All of my apps are available at .
+[here](https://github.com/halil-seran?tab=repositories)  
 - I’m currently working at SeraCell
 
 <!-- <img align="right" src="http://www.reactiongifs.com/r/vhpy.gif" width="250" height="189"/> -->
@@ -18,6 +19,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halil-seran&" alt="halil-seran" /></p>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -41,6 +43,7 @@
 <!--
 **halil-seran/halil-seran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+A
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
