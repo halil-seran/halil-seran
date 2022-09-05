@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my apps are available at .
 [here](https://github.com/halil-seran?tab=repositories)  
-<!--- I’m currently working at SeraCell-->
+<!--- I’m currently working at SeraCell -->
 
 <!-- <img align="right" src="http://www.reactiongifs.com/r/vhpy.gif" width="250" height="189"/> -->
 
