@@ -6,7 +6,7 @@
 [here](https://github.com/halil-seran?tab=repositories)  
 - ✏️ I’m currently learning TypeScript and advanced English 
 
-<a href="https://www.hackerrank.com/halil_seran_1135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="halil_seran_1135" height="45" width="60" /></a><-- Check out my HackerRank!
+<a href="https://www.hackerrank.com/halilseran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="halil_seran_1135" height="45" width="60" /></a><-- Check out my HackerRank!
 <!--- I’m currently working at  -->
 
 
