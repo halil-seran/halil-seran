@@ -1,6 +1,6 @@
 <h3 align="center">React Native Developer</h3>
 
-<img align="right" src="https://media.giphy.com/media/F9hQLAVhWnL56/giphy.gif" width="250" height="189"/> 
+<img align="right" src="https://media.giphy.com/media/C21GGDOpKT6Z4VuXyn/giphy.gif" width="250" height="250"/> 
 
 - 👨‍💻 All of my apps and projects are available at
 [here](https://github.com/halil-seran?tab=repositories)  
