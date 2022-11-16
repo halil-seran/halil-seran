@@ -39,8 +39,7 @@
 </p>
 
 - 📫 How to reach me **halil.seran.1135@gmail.com**
-<h4 align="left">Support:</h4>
-<p><a href="https://www.buymeacoffee.com/halilseran"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="halilseran" /></a></p><br><br>
+
 
 
 
