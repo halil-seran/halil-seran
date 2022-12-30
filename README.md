@@ -37,7 +37,7 @@
 <a href="https://dev.to/halilseran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/halilseran" height="30" width="40" /></a>
 
 
-</p>
+</p> 
 
 <!-- - 📫 How to reach me **halil.seran.1135@gmail.com** -->
 
