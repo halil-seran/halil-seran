@@ -2,8 +2,9 @@
 
 <img align="right" src="https://media.giphy.com/media/C21GGDOpKT6Z4VuXyn/giphy.gif" width="250" height="250"/> 
 
-- [My projects and apps 👈](https://github.com/halil-seran?tab=repositories)  
-- I’m currently working and learning! 🖖
+- [My projects and apps 👈](https://github.com/halil-seran?tab=repositories)
+
+  <!--- I’m currently working at - I’m currently working and learning! 🖖 -->
 
 <a href="https://www.hackerrank.com/halilseran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="halil_seran_1135" height="45" width="60" /></a>- HackerRank <br/>
 <a href="https://leetcode.com/halil-seran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/halil-seran/" height="45" width="60" /></a>- LeetCode
