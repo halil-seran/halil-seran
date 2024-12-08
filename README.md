@@ -1,4 +1,4 @@
-<h3 align="center">React Native Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <img align="right" src="https://media.giphy.com/media/C21GGDOpKT6Z4VuXyn/giphy.gif" width="250" height="250"/> 
 
