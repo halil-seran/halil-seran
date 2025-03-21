@@ -1,6 +1,5 @@
 <h3 align="center">Software Developer</h3>
 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFrZWgwY2VoYWR5NXdkZjlhOTBlMXdqMXk0d3c2dGtseXJrbHNhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif" width="320" height="250"/> 
 
 - [My projects and apps 👈](https://github.com/halil-seran?tab=repositories)
 
